@@ -1,8 +1,8 @@
 {
-  "name": "ss-ui",
+  "name": "ssUi",
   "description": "A Component Library for shuangshi",
   "main": "lib/element-ui.common.js",
-  "version": "1.0.1",
+  "version": "1.0.0",
   "files": [
     "lib",
     "src",
@@ -47,7 +47,7 @@
   },
   "homepage": "http://element.eleme.io",
   "keywords": [
-    "ss-ui"
+    "ssUi"
   ],
   "author": "zhangyihui",
   "license": "ISC",
