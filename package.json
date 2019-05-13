@@ -1,5 +1,5 @@
 {
-  "name": "ssUi",
+  "name": "ssui",
   "description": "A Component Library for shuangshi",
   "main": "lib/element-ui.common.js",
   "version": "1.0.0",
@@ -47,7 +47,7 @@
   },
   "homepage": "http://element.eleme.io",
   "keywords": [
-    "ssUi"
+    "ssui"
   ],
   "author": "zhangyihui",
   "license": "ISC",
