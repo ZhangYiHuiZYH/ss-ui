@@ -1,5 +1,5 @@
 {
-  "name": "ssui",
+  "name": "ui-ss",
   "description": "A Component Library for shuangshi",
   "main": "lib/element-ui.common.js",
   "version": "1.0.0",
